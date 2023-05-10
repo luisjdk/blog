@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    display: block;
+}
+
+header {
+    
+    background-color:#334257 ;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    margin: 0px;
+}
+
+.menu{
+    background: #476072;
+    color: white;
+    text-align: left;
+    border: black 2px solid;
+
+}
+
+.articulo {
+    background:#548CA8 ;
+    color:black;
+    float: left;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.columna {
+    
+    width: 257px;
+    float: right;
+    
+}
+
+.columna div {
+    padding: 20px;
+    border: solid black 1px;
+    background: #476072;
+    
+    
+}
+
+.pie {
+    background:#EEEEEE;
+    font-family: helvetica;
+    font-size: 10px;
+    text-align: center;
+    border: solid black; 
+    clear: both;
+    
+}
+
+h1 {
+    font-size: 25px;
+    font-family: helvetica;
+}
+
+h2 {
+    font-size: 20 px;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+.grupo {
+    margin: 20px 20px;
+    text-align: left;
+    
+}
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 13px helvetica;
+    display: inline-block;
+}
+
+.seccion {
+  margin: 10px;
+  padding: 0px; 
+  width: 700px; 
+ 
+}
+
+.articulo time {
+    color: white;
+
+    
+}
+
+.articulo footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+body {
+    background: lightgrey;
+}
+
+form {
+  padding-bottom: 10px; 
+}
+
